@@ -28,6 +28,7 @@
     * [Cabot](#cabot)
     * [Server Density](#server-density)
     * [PagerDuty](#pagerduty)
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - 开源AI监控平台，实时仪表盘监控AI Agent状态 | [Demo](http://47.109.47.116/)
     * [Nagios Monitoring Plugins](#nagios-monitoring-plugins)
     * [Nagios Monitoring Addons](#nagios-monitoring-addons)
 * [Zabbix Monitoring](#zabbix-monitoring)
